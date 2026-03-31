@@ -1,0 +1,167 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>IPL Auction 2026</title> 
+</head> 
+<body> 
+<center> 
+<h1>🏏 IPL AUCTION 2026</h1> 
+<p>Welcome to the IPL Auction Static Website</p> 
+</center> 
+<hr> 
+<h2>About IPL Auction</h2> 
+<p> 
+The IPL Auction is an important event where teams buy players. 
+This website shows IPL teams and their details. 
+The IPL Auction is the process where IPL teams buy players  
+to form their squads for the Indian Premier League (IPL) season. 
+</p> 
+<hr> 
+<h2>IPL Teams</h2> 
+<ol> 
+<li>CSK - Chennai Super Kings</li> 
+<li>MI - Mumbai Indians</li> 
+<li>RCB - Royal Challengers Bangalore</li> 
+<li>KKR - Kolkata Knight Riders</li> 
+<li>SRH - Sunrisers Hyderabad</li> 
+<li>RR - Rajasthan Royals</li> 
+<li>GT - Gujarat Titans</li> 
+<li>LSG - Lucknow Super Giants</li> 
+<li>PBKS - Punjab Kings</li> 
+<li>DC - Delhi Capitals</li> 
+</ol> 
+<hr> 
+<h2>Select Team</h2> 
+<select> 
+<option>CSK</option> 
+<option>MI</option> 
+<option>RCB</option> 
+<option>KKR</option> 
+<option>SRH</option> 
+<option>RR</option> 
+<option>GT</option> 
+<option>LSG</option> 
+<option>PBKS</option> 
+<option>DC</option> 
+</select>  
+<hr> 
+<h2>Team Images</h2> 
+<a href="#csk">CSK</a> | 
+<a href="#mi">MI</a> | 
+<a href="#rcb">RCB</a> 
+<br><br> 
+<h3 id="csk">CSK Team</h3> 
+<img src="csk.png" width="400" height="650"> 
+<h3 id="mi">MI Team</h3> 
+<img src="mi.png" width="400" height="650"> 
+<h3 id="rcb">RCB Team</h3> 
+<img src="rcb.png" width="400" height="650"> 
+<br><br> 
+<h2>Players Available for Auction</h2> 
+<table border="10">  
+<th colspan="10">BATTING</th> 
+<tr> 
+<th>NAME</th> 
+<th>PRICE</th> 
+</tr> 
+<tr> 
+<td>DEWALD BREVIS</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+<tr> 
+<td>JOS BUTTLER</td> 
+<td>&#8377 1,75,000</td> 
+</tr> 
+<tr> 
+<td>SANJU SAMSON</td> 
+<td>&#8377 1,75,000</td> 
+</tr> 
+<tr> 
+<td>GLEN MAXWEL</td> 
+<td>&#8377 1,50,000</td> 
+</tr> 
+<tr> 
+<td>TIM DAVID</td> 
+<td>&#8377 1,75,000</td> 
+</tr> 
+</table> 
+<br> 
+<h2>Players Available for Auction</h2> 
+<table border="10"> 
+<th colspan="10">BOWLER</th> 
+<tr> 
+<th>NAME</th> 
+<th>PRICE</th> 
+</tr> 
+<tr> 
+<td>MITCHELL STRAC</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+<tr> 
+<td>MATHISHA PATHIRANA</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+<tr> 
+<td>JOFRA ARCHER</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+<tr> 
+<td>LOCKIE FERGUSON</td> 
+<td>&#8377 1,75,000</td> 
+</tr> 
+<tr> 
+<td>JASPRIT BUMRAH</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+</table> 
+<br> 
+<h2>Players Available for Auction</h2> 
+<table border="10"> 
+<th colspan="10">ALL ROUNDER</th> 
+<tr> 
+<th>NAME</th> 
+<th>PRICE</th> 
+</tr> 
+<tr> 
+<td>HARDIK PANDYA</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+<tr> 
+<td>RAVINDRA JADEJA</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+<tr> 
+<td>PAT CUMMINS</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+<tr> 
+<td>ANDRE RUSSELL</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+<tr> 
+<td>KIERON POLLARD</td> 
+<td>&#8377 2,00,000</td> 
+</tr> 
+</table> 
+<br> 
+<h2>Auction Form</h2> 
+<form> 
+<label>Player Name:</label><br> 
+<input type="text" name="player"><br><br> 
+<label>Team Name:</label><br> 
+<input type="text" name="team"><br><br> 
+<label>Bid Price (Cr):</label><br> 
+<input type="number" name="price"><br><br> 
+<input type="submit" value="Submit "> 
+</form> 
+<h2>Sold Players</h2> 
+<ol> 
+<li>Dewald Brevis - CSK - &#8377 12 Cr</li> 
+<li>Ravindra Jadeja - RR - &#8377 15 Cr</li> 
+<li>Jasprit Bumrah - MI - &#8377 13  Cr </li> 
+</ol> 
+<center> 
+<h3>© IPL Auction Website 2026</h3> 
+</center> 
+</body> 
+</html>
