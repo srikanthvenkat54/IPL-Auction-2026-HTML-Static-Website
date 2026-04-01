@@ -1,0 +1,50 @@
+Project Overview
+This project is a simple static website developed using HTML.
+It represents the IPL Auction 2026 by displaying team details, player information, auction prices, and sold players in a structured format.
+
+Features
+Displays IPL team list
+Shows player details with prices
+Uses tables for structured data
+Includes team selection dropdown
+Displays team images
+Provides simple auction form
+Shows sold players list
+Easy navigation using internal links
+
+Problem Statement
+Manual presentation of IPL auction data is not well organized. A static website is required to present team and player details in a clear and structured format.
+
+Objective
+To create a webpage using HTML
+To display structured data using lists and tables
+To use forms and input elements
+To improve understanding of webpage design
+Tools Used
+HTML5
+VS Code / Notepad
+
+Description
+This project demonstrates a static IPL auction website created using basic HTML elements.
+It includes sections such as team list, player tables, images, and an auction form.
+
+The webpage uses:
+Lists to display teams
+Tables to show player details
+Images for visual representation
+Forms for user input
+
+Algorithm
+Start
+Create HTML structure
+Add heading and description
+Display IPL teams using list
+Add dropdown for team selection
+Show images using image tag
+Display players using tables
+Create auction form
+Show sold players list
+End
+
+Conclusion
+This project shows how HTML can be used to build a simple static website. It helps in understanding webpage structure, elements, and layout design.
